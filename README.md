@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suvin Krishna</h1>
-<h3 align="center">A passionate mearn stack developer from India</h3>
+<h3 align="center">A passionate mern stack developer from India</h3>
 
 - 🌱 I’m currently learning **MERN STACK Development**
 
